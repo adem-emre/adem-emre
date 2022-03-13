@@ -1,16 +1,15 @@
-### Hi there 👋
+<img src="https://media2.giphy.com/media/3o6QL6BkYYlWuu66oE/giphy.gif?cid=790b76111bbb978d54860a2974c63a80803ca3bded32c2d4&rid=giphy.gif&ct=g" align="right" width="300" height="150">
 
-<!--
-**adem-emre/adem-emre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Adem Emre
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</br>
+
+
+
+## I'm a Computer Engineer
+- 🔭 I'm currently developing mobile applications with **Dart** and **Flutter**
+- 🌱 I'm currently learning **Kotlin**
+</br>
+<img src="https://github-readme-stats.vercel.app/api?username=adem-emre&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adem-emre&layout=compact&theme=tokyonight">
