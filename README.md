@@ -5,6 +5,11 @@
 ## I'm a Computer Engineer
 - 🔭 I'm currently developing mobile applications with **Dart** and **Flutter**
 - 🌱 I'm currently learning **Kotlin**
+
+## Contact With Me
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@adememregokmen)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adem-emre-gokmen/)
+</br>
 </br>
 <img src="https://github-readme-stats.vercel.app/api?username=adem-emre&show_icons=true&theme=tokyonight">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adem-emre&layout=compact&theme=tokyonight">
